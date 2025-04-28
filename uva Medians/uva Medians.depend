@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600710301 source:e:\problem sets\uva medians\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+
